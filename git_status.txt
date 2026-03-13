@@ -1,0 +1,51 @@
+﻿On branch main
+Your branch and 'origin/main' have diverged,
+and have 5 and 3 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../Java_Project/.vscode/settings.json
+	deleted:    ../Java_Project/GitHub/Inventory_Management/Inventory_Management
+	deleted:    ../Java_Project/GitHub/desktop.ini
+	deleted:    ../Java_Project/ims (1)/.idea/.gitignore
+	deleted:    ../Java_Project/ims (1)/.idea/compiler.xml
+	deleted:    ../Java_Project/ims (1)/.idea/dictionaries/project.xml
+	deleted:    ../Java_Project/ims (1)/.idea/encodings.xml
+	deleted:    ../Java_Project/ims (1)/.idea/ims (1).iml
+	deleted:    ../Java_Project/ims (1)/.idea/jarRepositories.xml
+	deleted:    ../Java_Project/ims (1)/.idea/misc.xml
+	deleted:    ../Java_Project/ims (1)/.idea/modules.xml
+	deleted:    ../Java_Project/ims (1)/.idea/vcs.xml
+	deleted:    ../Java_Project/ims (1)/ims/.gitattributes
+	deleted:    ../Java_Project/ims (1)/ims/.gitignore
+	deleted:    ../Java_Project/ims (1)/ims/.mvn/wrapper/maven-wrapper.properties
+	deleted:    ../Java_Project/ims (1)/ims/mvnw
+	deleted:    ../Java_Project/ims (1)/ims/mvnw.cmd
+	deleted:    ../Java_Project/ims (1)/ims/pom.xml
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/ImsApplication.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/controller/AuthController.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/controller/CustomErrorController.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/controller/ProductController.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/controller/SimpleController.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/controller/TestController.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/model/AppUser.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/model/Product.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/repository/AppUserRepository.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/repository/ProductRepository.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/security/CustomUserDetailsService.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/security/SecurityConfig.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/java/com/inventory/ims/service/ProductService.java
+	deleted:    ../Java_Project/ims (1)/ims/src/main/resources/application.properties
+	deleted:    ../Java_Project/ims (1)/ims/src/test/java/com/inventory/ims/ImsApplicationTests.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../Ascend/
+	../Framer.lnk
+	../LM Studio.lnk
+	../Urbanest-DTL/
+	./
+
+no changes added to commit (use "git add" and/or "git commit -a")
